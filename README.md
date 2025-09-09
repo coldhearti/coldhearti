@@ -1,16 +1,21 @@
-## Hi there 👋
+```
+                       /\_/\  
+                      ( o.o ) 
+                       > ^ < 
+     
+      (Now with 73% more questionable commits)
+    
+               Hello, fellow engineer!             
 
-<!--
-**coldhearti/coldhearti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ┌─────────────────────────────────────────────┐
+   │  Push early, push often, regret nothing!    │
+   │                                             │
+   │    "It worked on my machine."  – Me, daily  │
+   └─────────────────────────────────────────────┘
 
-Here are some ideas to get you started:
+       /¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+      |   If you find a bug, congrats!      |
+      |      You are now a contributor.     |
+       \___________________________________/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
